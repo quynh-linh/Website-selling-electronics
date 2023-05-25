@@ -56,9 +56,5 @@ Login Page                   |                   Description Product Page
 Cart Page                   |                   Order Management Page
 :---------------------------------:        |      :------------------------------:
 <img src="Screenshots/CartPage.png" height="200">  | <img src="Screenshots/OderPage.png" height="200">
-
-Admin Page                   |                   Revenue Statistics page
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/AdminPage.png" height="200">  | <img src="Screenshots/Statistics.png" height="200">
 ### Make sure to star the repository if you find it helpful!
 <a href="https://github.com/Quynh-Linh-IT/Website-selling-electronics/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/Website-selling-electronics?color=yellow" alt="Stars Badge"/></a>
